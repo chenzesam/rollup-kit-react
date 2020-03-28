@@ -3,7 +3,7 @@ const eslintrc = {
   extends: [
       'eslint:recommended',
       'plugin:@typescript-eslint/recommended',
-      'airbnb-typescript/base'
+      'airbnb-typescript'
   ],
   plugins: [
       '@typescript-eslint',

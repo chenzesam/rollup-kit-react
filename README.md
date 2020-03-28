@@ -1,6 +1,6 @@
-# rollup-kit
+# rollup-kit-react
 
-Rollup based project structure for building wheels
+Rollup based project structure for building react-wheels
 
 ## How to use
 

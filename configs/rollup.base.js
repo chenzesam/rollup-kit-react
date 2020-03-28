@@ -32,7 +32,7 @@ if (pkg.module) {
 }
 
 export default {
-  input: 'src/index.ts',
+  input: 'src/index.tsx',
   output,
   plugins: [
     commonjs(),

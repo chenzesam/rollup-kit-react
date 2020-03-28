@@ -1,3 +1,7 @@
-import rollupKit from 'rollup-kit';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import A from 'rollup-kit-react';
 
-rollupKit.say();
+const container = document.querySelector('#app');
+
+ReactDOM.render(<A />, container);
