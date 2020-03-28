@@ -1,0 +1,29 @@
+# base ignore
+coverage
+node_modules
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.cache
+
+# test
+__tests__
+
+# config
+configs
+.eslintignore
+.eslintrc.js
+.gitignore
+.commitlintrc.js
+jest.config.js
+
+/tsconfig.*
+/typing.d.ts
+
+# source code
+src
+example
+doc
