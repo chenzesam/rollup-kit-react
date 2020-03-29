@@ -1,5 +1,5 @@
-import React, { SFC } from 'react';
+import React, { FC } from 'react';
 
-const A: SFC = () => (<div>123</div>);
+const A: FC = () => (<div>123</div>);
 
 export default A;

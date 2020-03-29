@@ -2,11 +2,11 @@
   "compilerOptions": {
     "baseUrl": ".",
     "resolveJsonModule": true,
-    "jsx": "react",
+    "jsx": "react"
   },
   "include": [
     "src",
     "__tests__",
     "./typing.d.ts"
-  ],
+  ]
 }
